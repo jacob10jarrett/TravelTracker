@@ -4,6 +4,7 @@
 Jacob Jarrett — ITCS 3112 final project.
 
 A clean, object‑oriented C# 12 (.NET 8) console application for recording trips and planning future travel.
+
 ## Features
 * Add visited locations with date, country, and notes
 * Maintain a wishlist of destinations
